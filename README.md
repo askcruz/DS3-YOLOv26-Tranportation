@@ -1,5 +1,9 @@
 # DS3-YOLOv26-Tranportation
+Group Project by:
+* Cruz, Audrize
+* Morales, Rayleen
 
+---
 
 ## A screenshot or text output of the final epoch results.
 <img width="1139" height="313" alt="FinalEpochResults" src="https://github.com/user-attachments/assets/48e3cf27-b44b-406d-a53f-0f585560bc54" />
@@ -28,4 +32,4 @@
 <img width="311" height="767" alt="PerClassMetricsTable1" src="https://github.com/user-attachments/assets/5d3b08f1-5ba0-4c29-8572-90e0fe506238" />
 <img width="353" height="421" alt="PerClassMetricsTable2" src="https://github.com/user-attachments/assets/658b96f6-25e6-4758-8292-f1cf33f85caf" />
 
-## Full discussion comparing the model's results on which classes (e.g., fire or smoke) each of the models struggled with most, and how do each of the scores' results reflect this?
+Note: Credit us if you use our dataset! ^____^
