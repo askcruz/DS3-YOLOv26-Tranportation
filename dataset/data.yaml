@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Bike', 'Car', 'Motorcycle', 'Others', 'Tricycle', 'Truck']
+
+roboflow:
+  workspace: a-yrzhn
+  project: sa2-vehiclevolume
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/a-yrzhn/sa2-vehiclevolume/dataset/7
