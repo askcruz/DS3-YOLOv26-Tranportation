@@ -83,9 +83,10 @@ In this assessment, we successfully implemented and evaluated the YOLOv26 archit
 * Vu, T. C., Tran, T. D., Nguyen, T. V., Nguyen, D. T., Dinh, L. Q., Nguyen, M. D., Nguyen, H. T., & Nguyen, M. T. (2025). Vehicle Detection, Tracking and Counting in Traffic Video Streams Based on the Combination of YOLOv9 and DeepSORT Algorithms. Journal of Future Artificial Intelligence and Technologies, 2(2), 255–268. https://doi.org/10.62411/faith.3048-3719-115
 
 
-# 📌 Usage & Attribution
+# 📌 License & Attribution
+This project is licensed under the MIT License.
 
-This repository and dataset is open for public use. You are free to reference, adapt, or build upon this work for academic or personal projects, provided that proper credit is given to the original authors.
+This repository and its accompanying dataset are open for public use. You are free to reference, adapt, or build upon this work for academic or personal projects, provided that proper credit is given to the original authors.
 
 Please cite as:
 
